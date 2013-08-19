@@ -1,10 +1,10 @@
 # uncomment if you get no picture on HDMI for a default "safe" mode
-#hdmi_safe=0
-#disable_overscan=0
-#hdmi_drive=2
-#config_hdmi_boost=4
-#hdmi_mode=58
-#hdmi_group=2
+hdmi_safe=0
+disable_overscan=0
+hdmi_drive=2
+config_hdmi_boost=4
+hdmi_mode=58
+hdmi_group=2
 
 # uncomment this if your display has a black border of unused pixels visible
 # and your display can output without overscan
@@ -47,7 +47,7 @@ arm_freq=1000
 # for more options see http://elinux.org/RPi_config.txt
 
 #Overclocking 
-over_voltage=6
-arm_freq=1000
-core_freq=500
-sdram_freq=500
+#over_voltage=6
+#arm_freq=1000
+#core_freq=500
+#sdram_freq=500
